@@ -1,6 +1,6 @@
 {
-    "name": "项目名称，必填",
-    "introduction": "Wiki 首页的项目介绍，必填",
+    "name": "rancky的个人主页",
+    "introduction": "该主页所有的内容是rancky个人的工作报告(日报、周报等)",
     "title": "页面的 title 标签的内容，非必填",
     "keywords": "页面的 keywords 标签的内容，非必填",
     "description": "页面的 description 标签的内容，非必填",
